@@ -70,6 +70,12 @@ login into heroku
 
 --- 
 
+(rename app to alpha-blog)
+
+> heroku rename alpha-blog-samanthi22
+
+---
+
 [deployed to heroku link](https://hidden-castle-54450.herokuapp.com/)
 
 
