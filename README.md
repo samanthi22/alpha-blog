@@ -55,5 +55,18 @@ login into heroku
 
 ---
 
+> heroku create
+
+--- 
+
+> heroku keys:add
+
+---
+
+> git push heroku master
+
+--- 
+
+[deployed to heroku link](https://hidden-castle-54450.herokuapp.com/)
 
 
