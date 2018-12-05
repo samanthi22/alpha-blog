@@ -11,3 +11,7 @@ to undo with git
 > git checkout -f
 
 config directory is back, change undone
+
+> git remote -v
+
+(to check if git remote add origin which)
