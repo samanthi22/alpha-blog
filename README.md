@@ -43,7 +43,8 @@ add the following lines:
 group :production do
    gem 'pg'
    gem 'rails_12factor' # not necessary for rails 5
-end```
+end
+```
 
 then do:
 
