@@ -38,7 +38,9 @@ install heroku cli
 move the sqlite3 gem to :development, :test
 
 add the following lines:
-```ruby group :production do
+
+```ruby 
+group :production do
    gem 'pg'
    gem 'rails_12factor' # not necessary for rails 5
 end```
