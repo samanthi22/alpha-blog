@@ -76,6 +76,6 @@ login into heroku
 
 ---
 
-[deployed to heroku link](https://hidden-castle-54450.herokuapp.com/)
+[deployed to heroku link](https://alpha-blog-samanthi22.herokuapp.com/)
 
 
